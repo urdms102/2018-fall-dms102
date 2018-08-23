@@ -1,6 +1,6 @@
 # DMS 102 Course Documentation
 
-Web Design and Development
+Programming for Digital media
 
 - [Syllabus](syllabus.md)
 
@@ -11,13 +11,11 @@ Web Design and Development
 <hr>
 
 - Current topic
-  - [Programming Fundamentals (PPT)](01-programming-fundamentals/programming-fundamentals.pdf)
+  - [**Programming Fundamentals (PPT)**](01-programming-fundamentals/programming-fundamentals.pdf)
 
 - Current assignments you should be working on
   - Read: Chapter 2, pages 18-39
   - Do [Assignment 1: Pick and Show](assign01-pick-and-show/instructions.md) (due: Tuesday, September 4)
-
-<hr>
 
 - Previous topics
   - ...
