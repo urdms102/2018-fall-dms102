@@ -1,35 +1,35 @@
 # Schedule
 This schedule is subject to modification throughout the semester. Always check with your instructor if you have any questions.
 
-|                | Lecture/Lab<br>(2:00 - 3:15 PM)                | Assignment<br>(in-class and homework) | Notes |
-| -------------- | ---------------------------------------------- | ------------------------------------- | ----- |
-| **Thu Aug 30** | Introduction                                   | [to be announced]                     |       |
-| **Tue Sep 4**  | Digital Media                                  |                                       |       |
-| **Thu Sep 6**  | Encoding Media                                 |                                       |       |
-| **Tue Sep 11** | Text as Media 1                                |                                       |       |
-| **Thu Sep 13** | Text as Media 2                                |                                       |       |
-| **Tue Sep 18** | Text as Media 3                                |                                       |       |
-| **Thu Sep 20** | Pictures as Media 1                            |                                       |       |
-| **Tue Sep 25** | Pictures as Media 2                            |                                       |       |
-| **Thu Sep 27** | Pictures as Media 3                            |                                       |       |
-| **Tue Oct 2**  | More Picture Techniques                        |                                       |       |
-| **Thu Oct 4**  | Programming Techniques                         |                                       |       |
-| **Tue Oct 9**  | Midterm Review and Catch-up Day                |                                       |       |
-| **Thu Oct 11** | MIDTERM EXAM                                   |                                       |       |
-| **Tue Oct 16** | **HOLIDAY**                                    |                                       |       |
-| **Thu Oct 18** | Introduction to Sound 1                        |                                       |       |
-| **Tue Oct 23** | Introduction to Sound 2                        |                                       |       |
-| **Thu Oct 25** | Sound as Media 1                               |                                       |       |
-| **Tue Oct 30** | Sound as Media 2                               |                                       |       |
-| **Thu Nov 1**  | Modifying Samples in a Range 1                 |                                       |       |
-| **Tue Nov 6**  | Modifying Samples in a Range 2                 |                                       |       |
-| **Thu Nov 8**  | Making Sounds by Combining Pieces 1            |                                       |       |
-| **Tue Nov 13** | Making Sounds by Combining Pieces 2            |                                       |       |
-| **Thu Nov 15** | Manipulating Text with Methods and Files 1     |                                       |       |
-| **Tue Nov 20** | Manipulating Text with Methods and Files 2     |                                       |       |
-| **Thu Nov 22** | **HOLIDAY**                                    |                                       |       |
-| **Tue Nov 27** | Creating and Modifying Movies 1                |                                       |       |
-| **Thu Nov 29** | Creating and Modifying Movies 2                |                                       |       |
-| **Tue Dec 4**  | Object-Oriented Programming 1                  |                                       |       |
-| **Thu Dec 6**  | Object-Oriented Programming 2 and Final Review |                                       |       |
-| **Tue Dec 11** | FINAL EXAM                                     |                                       |       |
+|                | Lecture/Lab<br>(2:00 - 3:15 PM)                              | Assignment<br>(in-class and homework)                        | Notes                                                        |
+| -------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| **Thu Aug 30** | [Programming Fundamentals (PDF)](01-programming-fundamentals/programming-fundamentals.pdf) | [Assignment 1: Pick and Show](assign01-pick-and-show/instructions.md) (due: Tuesday, September 4) | Optionally Install software:<br>- [Sublime Text](www.sublimetext.com)<br>- [JES](https://github.com/gatech-csl/jes/releases) |
+| **Tue Sep 4**  | Digital Media                                                |                                                              |                                                              |
+| **Thu Sep 6**  | Encoding Media                                               |                                                              |                                                              |
+| **Tue Sep 11** | Text as Media 1                                              |                                                              |                                                              |
+| **Thu Sep 13** | Text as Media 2                                              |                                                              |                                                              |
+| **Tue Sep 18** | Text as Media 3                                              |                                                              |                                                              |
+| **Thu Sep 20** | Pictures as Media 1                                          |                                                              |                                                              |
+| **Tue Sep 25** | Pictures as Media 2                                          |                                                              |                                                              |
+| **Thu Sep 27** | Pictures as Media 3                                          |                                                              |                                                              |
+| **Tue Oct 2**  | More Picture Techniques                                      |                                                              |                                                              |
+| **Thu Oct 4**  | Programming Techniques                                       |                                                              |                                                              |
+| **Tue Oct 9**  | Midterm Review and Catch-up Day                              |                                                              |                                                              |
+| **Thu Oct 11** | MIDTERM EXAM                                                 |                                                              |                                                              |
+| **Tue Oct 16** | **HOLIDAY**                                                  |                                                              |                                                              |
+| **Thu Oct 18** | Introduction to Sound 1                                      |                                                              |                                                              |
+| **Tue Oct 23** | Introduction to Sound 2                                      |                                                              |                                                              |
+| **Thu Oct 25** | Sound as Media 1                                             |                                                              |                                                              |
+| **Tue Oct 30** | Sound as Media 2                                             |                                                              |                                                              |
+| **Thu Nov 1**  | Modifying Samples in a Range 1                               |                                                              |                                                              |
+| **Tue Nov 6**  | Modifying Samples in a Range 2                               |                                                              |                                                              |
+| **Thu Nov 8**  | Making Sounds by Combining Pieces 1                          |                                                              |                                                              |
+| **Tue Nov 13** | Making Sounds by Combining Pieces 2                          |                                                              |                                                              |
+| **Thu Nov 15** | Manipulating Text with Methods and Files 1                   |                                                              |                                                              |
+| **Tue Nov 20** | Manipulating Text with Methods and Files 2                   |                                                              |                                                              |
+| **Thu Nov 22** | **HOLIDAY**                                                  |                                                              |                                                              |
+| **Tue Nov 27** | Creating and Modifying Movies 1                              |                                                              |                                                              |
+| **Thu Nov 29** | Creating and Modifying Movies 2                              |                                                              |                                                              |
+| **Tue Dec 4**  | Object-Oriented Programming 1                                |                                                              |                                                              |
+| **Thu Dec 6**  | Object-Oriented Programming 2 and Final Review               |                                                              |                                                              |
+| **Tue Dec 11** | FINAL EXAM                                                   |                                                              |                                                              |
