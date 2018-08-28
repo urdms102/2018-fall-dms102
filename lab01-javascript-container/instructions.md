@@ -66,7 +66,7 @@ In the HTML Document:
 
 - [ ] In the new script element, write another JavaScript statement that uses both: `alert()` and `prompt()` and the *concatenation* operator: `+` ...in one statement (line) to prompt the user to enter their name like this:
   ![1531016039795](media/figure1.png)
-  ...and then have the program display the user's name like this:
+  <br>...and then have the program display the user's name like this:<br>
   ![1531016055543](media/figure2.png)
 
 ## Step 5: Get credit
