@@ -5,7 +5,7 @@ Programming for Digital media
 - [Syllabus](syllabus.md)
 - [Schedule](schedule.md) <– you’ll find the presentation files and other course materials here
 - Some of the assignments in this course require use of media files.  You can use the ones here: [mediasources (27 MB ZIP file)](media/mediasources.zip)
-- Optionally Install software (also available on all University Computers):<br>- [Sublime Text](www.sublimetext.com)<br>- [Jython Enviornment for Students (JES)](https://github.com/gatech-csl/jes/releases)
+- Optionally Install software (also available on all University Computers):<br>- [Sublime Text](https://www.sublimetext.com)<br>- [Jython Enviornment for Students (JES)](https://github.com/gatech-csl/jes/releases)
 
 <hr>
 
