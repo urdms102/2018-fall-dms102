@@ -1,5 +1,5 @@
 # Lab 1: JavaScript Container
-*Due: Tuesday, September 4, 2018 (today)*
+*Due: Thursday, September 6, 2018 (updated)* 
 
 Your assignment is to create a basic HTML document (webpage) and some embedded JavaScript that runs when the document is loaded in a web browser.
 
