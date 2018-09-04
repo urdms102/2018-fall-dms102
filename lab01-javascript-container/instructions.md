@@ -54,20 +54,17 @@ In the external script document (scripts.js):
 
 Test the HTML document in a web browser.  Notice that the two alert messages pop-up *in the order they are in the HTML document.*  (That'll be important to remember as we do more and more complicated programming later in the course.)
 
-- [ ] *After* you've confirmed that your two alert messages work, comment-out both alert statements like this:
-  - Comment-out the alert statement embedded in the HTML document using a single-line comment
-  - Comment-out the alert statement in the external script document using a multi-line comment (even though it's a single line, use a multi-line comment just to demonstrate you can do it!)
+- [ ] *After* you've confirmed that your two alert messages work, comment-out both alert statements (because they're annoying)
 
 ## Step 4: Add another JavaScript element
 
-In the HTML Document:
+In the **script.js** file:
 
-- [ ] Add another (a third) **script** element - just above the closing **body** tag
-
-- [ ] In the new script element, write another JavaScript statement that uses both: `alert()` and `prompt()` and the *concatenation* operator: `+` ...in one statement (line) to prompt the user to enter their name like this:
+- [ ] Under the second commented-out alert() code (in the external script.js file) write another JavaScript statement that uses both: `alert()` and `prompt()` and the *concatenation* operator: `+` ...in one statement (line) to prompt the user to enter their name like this:
   ![1531016039795](media/figure1.png)
   <br>...and then have the program display the user's name like this:<br>
   ![1531016055543](media/figure2.png)
+
 
 ## Step 5: Get credit
 
