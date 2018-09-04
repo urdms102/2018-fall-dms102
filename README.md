@@ -10,14 +10,13 @@ Programming for Digital media
 <hr>
 
 - Current topic
-  - [**Programming Fundamentals (PPT)**](01-programming-fundamentals/programming-fundamentals.pdf)
+  - [Introduction to JavaScript (PDF)](02-introduction-javascript/introduction-javascript.pdf)<br>Read: [General Introduction to JavaScript (Quirksmode website)](https://www.quirksmode.org/js/intro.html)
 
 - Current assignments you should be working on
-  - Read: Chapter 2, pages 18-39
-  - Do [Assignment 1: Pick and Show](assign01-pick-and-show/instructions.md) (due: Tuesday, September 4)
+  - [In-class Lab 1: JavaScript Container](lab01-javascript-container/instructions.md) (due: Tuesday, September 4)
 
 - Previous topics
-  - ...
+  - [**Programming Fundamentals (PPT)**](01-programming-fundamentals/programming-fundamentals.pdf)
 
 - Previous assignments
-  - ...
+  - Read: Chapter 2, pages 18-39<br>Do [Assignment 1: Pick and Show](assign01-pick-and-show/instructions.md) (due: Tuesday, September 4)
