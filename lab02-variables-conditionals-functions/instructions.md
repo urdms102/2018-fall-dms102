@@ -74,15 +74,12 @@ In the HTML file, in the **script** element (the one directly above the closing 
 In the **script.js** file:
 
 ```html
-<script>
-    // Create a function named playGame()
-    //    Ask the user (by name) if they'd like to play again
-    
-    //    Create a while statement that uses the user's decision as the criteria
-    //      Based on the user's answer, ask the user if they want to continue playing;
-    //      as long as the user says OK, then continue to play (stay in the loop)
-    
-    //    When the user wants to stop (Cancel) give the user a good by message
-    
-</script>
+// Create a function named playGame()
+//    Ask the user (by name) if they'd like to play again
+
+//    Create a while statement that uses the user's decision as the criteria
+//      Based on the user's answer, ask the user if they want to continue playing;
+//      as long as the user says OK, then continue to play (stay in the loop)
+
+//    When the user wants to stop (Cancel) give the user a good by message
 ```
