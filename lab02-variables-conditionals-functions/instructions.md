@@ -42,7 +42,7 @@ Note: the while loop you'll write next does *not* use an incrementer.  Read care
 - [ ] Whatever the user selects, update the variable you used in the criteria. So, if the user clicks OK, they see another confirm dialog box like this...<br> ![figure 5](media/figure5.png)
 - If the user chooses to stop the game (Cancel) then the while loop will automatically stop (the program will "drop through" the while loop)
 
-- [ ] When the while loop exists (because the user clicked Cancel), display another message (**alert**) that uses the user's name and says goodbye<br> ![figure 6](media/figure6.png)
+- [ ] When the while loop exits (because the user clicked Cancel), display another message (**alert**) that uses the user's name and says goodbye<br> ![figure 6](media/figure6.png)
 
 ## Step 5: Get credit
 
