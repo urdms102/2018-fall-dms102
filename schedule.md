@@ -1,14 +1,14 @@
 # Schedule
 This schedule is subject to modification throughout the semester. Always check with your instructor if you have any questions.
 
-|                | Lecture/Lab<br>(2:00 - 3:15 PM)                              | Assignment<br>(in-class and homework)                        | Notes                                                        |
+|                | Lecture/Lab<br>(2:00 - 3:15 PM)                              | Graded Assignments<br>(in-class and homework)                | Other Assignments                                            |
 | -------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | **Thu Aug 30** | [Programming Fundamentals (PDF)](01-programming-fundamentals/programming-fundamentals.pdf) | [Assignment 1: Pick and Show](assign01-pick-and-show/instructions.md) (due: Tuesday, September 4) | Read: Chapter 2, pages 18 - 39<br>Optionally Install software:<br>- [Sublime Text](www.sublimetext.com)<br>- [JES](https://github.com/gatech-csl/jes/releases) |
 | **Tue Sep 4**  | [Introduction to JavaScript (PDF)](02-introduction-javascript/introduction-javascript.pdf) | [Lab 1: JavaScript Container](lab01-javascript-container/instructions.md) (due: Thursday, September 6) | Read: [General Introduction to JavaScript (Quirksmode website)](https://www.quirksmode.org/js/intro.html) |
 | **Thu Sep 6**  | [Variables, Conditionals, and Functions (PDF)](03-variables-conditionals-functions/variables-conditionals-functions.pdf) | [Lab 2: Variables, Conditionals, and Functions](lab02-variables-conditionals-functions/instructions.md) (due: Tuesday, September 11) |                                                              |
-| **Tue Sep 11** | Encoding Media                                               |                                                              |                                                              |
-| **Thu Sep 13** | Text as Media                                                |                                                              |                                                              |
-| **Tue Sep 18** | Text as Media 3                                              |                                                              |                                                              |
+| **Tue Sep 11** | [Introduction to Python (PDF)](04-introduction-python/introduction-to-python.pdf) |                                                              | Read: Chapter 3, pages 44-57 (stop before section 3.2.3)<br/>Try programs 9-23 |
+| **Thu Sep 13** | Encoding Media                                               |                                                              |                                                              |
+| **Tue Sep 18** | Text as Media                                                |                                                              |                                                              |
 | **Thu Sep 20** | Pictures as Media 1                                          |                                                              |                                                              |
 | **Tue Sep 25** | Pictures as Media 2                                          |                                                              |                                                              |
 | **Thu Sep 27** | Pictures as Media 3                                          |                                                              |                                                              |
