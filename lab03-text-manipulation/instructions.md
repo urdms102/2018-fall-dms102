@@ -33,7 +33,7 @@ His plays have been translated into every major living language and are performe
 
 Your goal is to create a program to output something like the following in the *Command Line* area of JES, except using your content (not Shakespeare)
 
-![screen capture](C:\Users\rober\OneDrive\Documents\UR\2018 3. Fall - DMS 102\course-documentation\lab03-text-manipulation\media\figure1.png)
+![screen capture](media\figure1.png)
 
 - [ ] The **first line** must say: `The title of the paragraph is: __________ ____________`<br>(using your output instead of the blanks)
 
