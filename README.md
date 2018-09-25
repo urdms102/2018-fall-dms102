@@ -11,9 +11,10 @@ Programming for Digital media
 
 - Current topic
 
-  - [**Text Manipulation - lab review** (PDF)](06-text-manipulation/coding-techniques.pdf)
+  - [Encoding Images (PDF)](07-encoding-images/encoding-images.pdf)
 - Current assignments you should be working on
-  - [Lab 3: Text Manipulation](lab03-text-manipulation/instructions.md) (due: September 20 ... same day)
+
+  - Follow-up by reading Chapter 4.1, pages 74-80
 - Previous topics
 
   - **PRO Series Workshop: Documentary Film Making**
@@ -24,6 +25,7 @@ Programming for Digital media
   - [**Programming Fundamentals**  (PDF)](01-programming-fundamentals/programming-fundamentals.pdf)
 - Previous assignments
 
+  - [Lab 3: Text Manipulation](lab03-text-manipulation/instructions.md) (due: September 20 ... same day)
   - Read: Chapter 3, pages 57-67 and review the summaries, p68<br>Try the programs
   - Read: Chapter 3, pages 44-57 (stop before section 3.2.3)<br>Try programs 9-23
   - [Lab 2: Variables, Conditionals, and Functions](lab02-variables-conditionals-functions/instructions.md) (due: Tuesday, September 11)
