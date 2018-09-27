@@ -11,12 +11,13 @@ Programming for Digital media
 
 - Current topic
 
-  - [Encoding Images (PDF)](07-encoding-images/encoding-images.pdf)
+  - **In-class Lab: Manipulating Pixels**
 - Current assignments you should be working on
 
-  - Follow-up by reading Chapter 4.1, pages 74-80
+  - [In-class Lab 4: Manipulating Pixels](lab04-manipulating-pixels/instructions.md) (due: Thursday, September 27 ...same day)
 - Previous topics
 
+  - [Encoding Images (PDF)](07-encoding-images/encoding-images.pdf)
   - **PRO Series Workshop: Documentary Film Making**
   - [**Introduction to Digital Media** (PDF)](05-introduction-digital-media/05-introduction-digital-media.pdf)
   - [**Introduction to Python** (PDF)](04-introduction-python/introduction-to-python.pdf)
@@ -25,6 +26,7 @@ Programming for Digital media
   - [**Programming Fundamentals**  (PDF)](01-programming-fundamentals/programming-fundamentals.pdf)
 - Previous assignments
 
+  - Follow-up by reading Chapter 4.1, pages 74-80
   - [Lab 3: Text Manipulation](lab03-text-manipulation/instructions.md) (due: September 20 ... same day)
   - Read: Chapter 3, pages 57-67 and review the summaries, p68<br>Try the programs
   - Read: Chapter 3, pages 44-57 (stop before section 3.2.3)<br>Try programs 9-23
