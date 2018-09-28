@@ -58,7 +58,7 @@ def decreaseRed(pictureObject):
 
   # loop through each pixel in the list one-by-one - use a FOR loop
 
-  	#in the FOR loop, get the red value of the current pixel - use getRed()
+    #in the FOR loop, get the red value of the current pixel - use getRed()
 
     #reduce the red value by half - use setRed() and a multiply by factor of 0.5
     
