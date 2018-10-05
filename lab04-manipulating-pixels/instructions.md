@@ -1,4 +1,4 @@
-# Lab 3: Text Manipulation
+# Lab 4: Manipulating Pixels
 *Due: Thursday, September 27, 2018 (same day)*
 
 Your assignment is to create a program in Python (in JES) that reduces the amount of red in a picture
