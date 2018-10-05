@@ -47,3 +47,7 @@ Your version of the program must also have the following:
 ## Get credit
 
 To get credit for this exercise, ZIP (compress) your red-eye picture (your JPG) with your **lab05.py** file and upload the ZIP file to the **Lab 5** assignment in Blackboard.
+
+*NOTE: the professor will take your JPG and Python file and run your program on his laptop.  If it doesn't work you'll get an immediate zero ...so make sure it works before you submit it!*
+
+*Due: Tuesday, October 9, 2018*
