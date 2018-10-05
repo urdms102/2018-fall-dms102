@@ -11,12 +11,13 @@ Programming for Digital media
 
 - Current topic
 
-  - **Modifying Pixels Using Loops**
+  - **Picture Techniques with Selection**
 - Current assignments you should be working on
 
-  - For next time: read Chapter 5, up to page 125
+  - [Lab 5: Red Eye](lab05-redeye/instructions.md) (due: Tuesday, October 9)
 - Previous topics
 
+  - **Modifying Pixels Using Loops**
   - **In-class Lab: Manipulating Pixels**
   - [**Encoding Images** (PDF)](07-encoding-images/encoding-images.pdf)
   - **PRO Series Workshop: Documentary Film Making**
@@ -27,6 +28,7 @@ Programming for Digital media
   - [**Programming Fundamentals**  (PDF)](01-programming-fundamentals/programming-fundamentals.pdf)
 - Previous assignments
 
+  - For next time: read Chapter 5, up to page 125
   - [In-class Lab 4: Manipulating Pixels](lab04-manipulating-pixels/instructions.md) (due: Thursday, September 27 ...same day)
   - Follow-up by reading Chapter 4.1, pages 74-80
   - [Lab 3: Text Manipulation](lab03-text-manipulation/instructions.md) (due: September 20 ... same day)
