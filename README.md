@@ -11,12 +11,13 @@ Programming for Digital media
 
 - Current topic
 
-  - **Picture Techniques with Selection**
+  - [**World Wide Web Overview** (PDF)](12-world-wide-web-overview/document-object-model.pdf)
 - Current assignments you should be working on
 
-  - [Lab 5: Red Eye](lab05-redeye/instructions.md) (due: Tuesday, October 9)
+  - [nothing right now]
 - Previous topics
 
+  - **Picture Techniques with Selection**
   - **Modifying Pixels Using Loops**
   - **In-class Lab: Manipulating Pixels**
   - [**Encoding Images** (PDF)](07-encoding-images/encoding-images.pdf)
@@ -28,6 +29,7 @@ Programming for Digital media
   - [**Programming Fundamentals**  (PDF)](01-programming-fundamentals/programming-fundamentals.pdf)
 - Previous assignments
 
+  - [Lab 5: Red Eye](lab05-redeye/instructions.md) (due: Tuesday, October 9)
   - For next time: read Chapter 5, up to page 125
   - [In-class Lab 4: Manipulating Pixels](lab04-manipulating-pixels/instructions.md) (due: Thursday, September 27 ...same day)
   - Follow-up by reading Chapter 4.1, pages 74-80
