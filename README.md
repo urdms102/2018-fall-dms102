@@ -11,12 +11,13 @@ Programming for Digital media
 
 - Current topic
 
-  - [**World Wide Web Overview** (PDF)](12-world-wide-web-overview/document-object-model.pdf)
+  - [**JavaScript Events** (PDF)](13-javascript-events/javascript-events.pdf)
 - Current assignments you should be working on
 
-  - [nothing right now]
+  - [Lab 6: JavaScript Events](lab06-javascript-events/instructions.md) (due: Thursday, October 25)<br>(you'll need the [starter files (ZIP)](lab06-javascript-events/lab06-startup-files.zip))
 - Previous topics
 
+  - [**World Wide Web Overview** (PDF)](12-world-wide-web-overview/document-object-model.pdf)
   - **Picture Techniques with Selection**
   - **Modifying Pixels Using Loops**
   - **In-class Lab: Manipulating Pixels**
