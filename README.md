@@ -11,12 +11,13 @@ Programming for Digital media
 
 - Current topic
 
-  - [**JavaScript Events** (PDF)](13-javascript-events/javascript-events.pdf)
+  - [**JavaScript Libraries** (PDF)](16-javascript-libraries/javascript-libraries.pdf)
 - Current assignments you should be working on
 
-  - [Lab 6: JavaScript Events](lab06-javascript-events/instructions.md) (due: Thursday, October 25)<br>(you'll need the [starter files (ZIP)](lab06-javascript-events/lab06-startup-files.zip))
+  - [Lab 7: JavaScript Libraries](lab07-javascript-libraries/instructions.md) (due: Tuesday, October 30)
 - Previous topics
 
+  - [**JavaScript Events** (PDF)](13-javascript-events/javascript-events.pdf)
   - [**World Wide Web Overview** (PDF)](12-world-wide-web-overview/document-object-model.pdf)
   - **Picture Techniques with Selection**
   - **Modifying Pixels Using Loops**
@@ -30,6 +31,7 @@ Programming for Digital media
   - [**Programming Fundamentals**  (PDF)](01-programming-fundamentals/programming-fundamentals.pdf)
 - Previous assignments
 
+  - [Lab 6: JavaScript Events](lab06-javascript-events/instructions.md) (due: Thursday, October 25)<br>(you'll need the [starter files (ZIP)](lab06-javascript-events/lab06-startup-files.zip))
   - [Lab 5: Red Eye](lab05-redeye/instructions.md) (due: Tuesday, October 9)
   - For next time: read Chapter 5, up to page 125
   - [In-class Lab 4: Manipulating Pixels](lab04-manipulating-pixels/instructions.md) (due: Thursday, September 27 ...same day)
