@@ -14,7 +14,7 @@ Programming for Digital media
   - [**JavaScript Plugins** (PDF)](17-javascript-plugins/javascript-plugins.pdf)<br>[Super Simple Slider Demo (ZIP)](17-javascript-plugins/sss-demo.zip)<br>[In-class Demo Starter Files (ZIP)](17-javascript-plugins/inclass-starter-files.zip)
 - Current assignments you should be working on
 
-  - Lab 8: JavaScript Plugins (coming soon)
+  - [Lab 8: JavaScript Plugins](lab08-javascript-plugins/instructions.md) (due: Tuesday, November 6)<br>[Starter files: nyc3 (ZIP)](lab08-javascript-plugins/nyc3.zip)<br>[Plugin files (ZIP)](lab08-javascript-plugins/plugins.zip)
 - Previous topics
 
   - [**JavaScript Libraries** (PDF)](16-javascript-libraries/javascript-libraries.pdf)
