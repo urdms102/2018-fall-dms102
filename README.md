@@ -11,12 +11,15 @@ Programming for Digital media
 
 - Current topic
 
-  - [**JavaScript Plugins** (PDF)](17-javascript-plugins/javascript-plugins.pdf)<br>[Super Simple Slider Demo (ZIP)](17-javascript-plugins/sss-demo.zip)<br>[In-class Demo Starter Files (ZIP)](17-javascript-plugins/inclass-starter-files.zip)
+  - **Modifying Samples**
+
 - Current assignments you should be working on
 
-  - [Lab 8: JavaScript Plugins](lab08-javascript-plugins/instructions.md) (due: Tuesday, November 6)<br>[Starter files: nyc3 (ZIP)](lab08-javascript-plugins/nyc3.zip)<br>[Plugin files (ZIP)](lab08-javascript-plugins/plugins.zip)<br>Read: Chapter 7, pages 203 - 220
+  - [Chapter 8 programs (see instructions)](21-modifying-samples/chapter8-instructions.md) (due: Tuesday, November 20)
+
 - Previous topics
 
+  - [**JavaScript Plugins** (PDF)](17-javascript-plugins/javascript-plugins.pdf)<br>[Super Simple Slider Demo (ZIP)](17-javascript-plugins/sss-demo.zip)<br>[In-class Demo Starter Files (ZIP)](17-javascript-plugins/inclass-starter-files.zip)
   - [**JavaScript Libraries** (PDF)](16-javascript-libraries/javascript-libraries.pdf)
   - [**JavaScript Events** (PDF)](13-javascript-events/javascript-events.pdf)
   - [**World Wide Web Overview** (PDF)](12-world-wide-web-overview/document-object-model.pdf)
@@ -30,8 +33,11 @@ Programming for Digital media
   - [**Variables, Conditionals, and Functions** (PDF)](03-variables-conditionals-functions/variables-conditionals-functions.pdf)
   - [**Introduction to JavaScript** (PDF)](02-introduction-javascript/introduction-javascript.pdf)<br>Read: [General Introduction to JavaScript (Quirksmode website)](https://www.quirksmode.org/js/intro.html)
   - [**Programming Fundamentals**  (PDF)](01-programming-fundamentals/programming-fundamentals.pdf)
+
+
 - Previous assignments
 
+  - [Lab 8: JavaScript Plugins](lab08-javascript-plugins/instructions.md) (due: Tuesday, November 6)<br>[Starter files: nyc3 (ZIP)](lab08-javascript-plugins/nyc3.zip)<br>[Plugin files (ZIP)](lab08-javascript-plugins/plugins.zip)<br>Read: Chapter 7, pages 203 - 220
   - [Lab 7: JavaScript Libraries](lab07-javascript-libraries/instructions.md) (due: Tuesday, October 30)
   - [Lab 6: JavaScript Events](lab06-javascript-events/instructions.md) (due: Thursday, October 25)<br>(you'll need the [starter files (ZIP)](lab06-javascript-events/lab06-startup-files.zip))
   - [Lab 5: Red Eye](lab05-redeye/instructions.md) (due: Tuesday, October 9)
