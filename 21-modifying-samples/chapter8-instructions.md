@@ -44,7 +44,7 @@ In addition to what the author suggests, also do the following:
   - **guzdial.wav**
   - **is.wav**
 - When you first open JES, in the command line, type: `getMediaPath()` It should display a path to your computer's desktop.  
-  - **If not**, then you need to fix it.  Copy the path that was displayed at the command line and enter this on the next line (and don't press ENTER yet): ` setMediaPath()` (notice, that's **s**etMediaPath with an "s", not **g**et) 
+  - **If not**, then you need to fix it.  Copy the path that was displayed at the command line and enter this on the next line (and don't press ENTER yet): `setMediaPath()` (notice, that's **s**etMediaPath with an "s", not **g**et) 
   - And then between the parenthesis, paste AND EDIT the path to point it to your computer's desktop, something like this:<br>`setMediaPath('C:\\Users\\PATHTODESKTOP\\Desktop')` ...for Windows<br>`setMediaPath('\\Users\\PATHTODESKTOP\\Desktop')` ...for Mac<br>
 - As you try the programs in Chapter 8, work right on your computer's desktop (in the same place as the .**wav** files) and create new **.py** files; e.g. **program99.py**
 
