@@ -11,12 +11,13 @@ Programming for Digital media
 
 - Current topic
 
-  - **Chapter 9: Making Sounds**
+  - [**Introduction to Object Oriented Programming** (PDF)](24-introduction-oop/object-oriented-programming.pdf)
 - Current assignments you should be working on
 
-  - [Lab 11: Making Sounds](lab11-making-sounds/instructions.md) (due: Tuesday, November 20)
+  - For next time: read Chapter 17, pages 447-464, and try sample programs
 - Previous topics
 
+  - **Chapter 9: Making Sounds**
   - **Modifying Samples**
   - [**JavaScript Plugins** (PDF)](17-javascript-plugins/javascript-plugins.pdf)<br>[Super Simple Slider Demo (ZIP)](17-javascript-plugins/sss-demo.zip)<br>[In-class Demo Starter Files (ZIP)](17-javascript-plugins/inclass-starter-files.zip)
   - [**JavaScript Libraries** (PDF)](16-javascript-libraries/javascript-libraries.pdf)
@@ -36,6 +37,7 @@ Programming for Digital media
 
 - Previous assignments
 
+  - [Lab 11: Making Sounds](lab11-making-sounds/instructions.md) (due: Tuesday, November 20)
   - [Chapter 8 programs (see instructions)](21-modifying-samples/chapter8-instructions.md) (due: Tuesday, November 20)
   - [Lab 8: JavaScript Plugins](lab08-javascript-plugins/instructions.md) (due: Tuesday, November 6)<br>[Starter files: nyc3 (ZIP)](lab08-javascript-plugins/nyc3.zip)<br>[Plugin files (ZIP)](lab08-javascript-plugins/plugins.zip)<br>Read: Chapter 7, pages 203 - 220
   - [Lab 7: JavaScript Libraries](lab07-javascript-libraries/instructions.md) (due: Tuesday, October 30)
