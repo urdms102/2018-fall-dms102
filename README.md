@@ -11,12 +11,14 @@ Programming for Digital media
 
 - Current topic
 
-  - [**Introduction to Object Oriented Programming** (PDF)](24-introduction-oop/object-oriented-programming.pdf)
+  - **Object Oriented Programming: creating classes**
 - Current assignments you should be working on
 
   - For next time: read Chapter 17, pages 447-464, and try sample programs
 - Previous topics
 
+  - ***Frameless Symposium 2018*** at RIT
+  - [**Introduction to Object Oriented Programming** (PDF)](24-introduction-oop/object-oriented-programming.pdf)
   - **Chapter 9: Making Sounds**
   - **Modifying Samples**
   - [**JavaScript Plugins** (PDF)](17-javascript-plugins/javascript-plugins.pdf)<br>[Super Simple Slider Demo (ZIP)](17-javascript-plugins/sss-demo.zip)<br>[In-class Demo Starter Files (ZIP)](17-javascript-plugins/inclass-starter-files.zip)
