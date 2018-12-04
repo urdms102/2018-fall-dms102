@@ -11,10 +11,10 @@ Programming for Digital media
 
 - Current topic
 
-  - **Object Oriented Programming: creating classes**
+  - [**Object Oriented Programming: creating classes** (PDF)](26-creating-classes/creating-classes-in-oop.pdf)
 - Current assignments you should be working on
 
-  - For next time: read Chapter 17, pages 447-464, and try sample programs
+  - Study for the Final Exam
 - Previous topics
 
   - ***Frameless Symposium 2018*** at RIT
@@ -39,6 +39,7 @@ Programming for Digital media
 
 - Previous assignments
 
+  - For next time: read Chapter 17, pages 447-464, and try sample programs
   - [Lab 11: Making Sounds](lab11-making-sounds/instructions.md) (due: Tuesday, November 20)
   - [Chapter 8 programs (see instructions)](21-modifying-samples/chapter8-instructions.md) (due: Tuesday, November 20)
   - [Lab 8: JavaScript Plugins](lab08-javascript-plugins/instructions.md) (due: Tuesday, November 6)<br>[Starter files: nyc3 (ZIP)](lab08-javascript-plugins/nyc3.zip)<br>[Plugin files (ZIP)](lab08-javascript-plugins/plugins.zip)<br>Read: Chapter 7, pages 203 - 220
@@ -53,4 +54,4 @@ Programming for Digital media
   - Read: Chapter 3, pages 44-57 (stop before section 3.2.3)<br>Try programs 9-23
   - [Lab 2: Variables, Conditionals, and Functions](lab02-variables-conditionals-functions/instructions.md) (due: Tuesday, September 11)
   - [In-class Lab 1: JavaScript Container](lab01-javascript-container/instructions.md) (due: Thursday, September 6)
-  - Read: Chapter 2, pages 18-39<br>Do [Assignment 1: Pick and Show](assign01-pick-and-show/instructions.md) (due: Tuesday, September 4)
+  - Read: Chapter 2, pages 18-39<br>Do [Assignment 1: Pick and Show](assign01-pick-and-show/instructions.md) (due: Tuesday, September 4)x
